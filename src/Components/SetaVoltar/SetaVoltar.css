@@ -1,0 +1,16 @@
+.seta-container {
+    display: flex;
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+}
+
+.seta {
+    font-size: 48px;
+    transition: ease-in-out .2s;
+    cursor: pointer;
+}
+
+.seta:hover {
+    filter: drop-shadow(0 0 0.75rem #369831);
+}

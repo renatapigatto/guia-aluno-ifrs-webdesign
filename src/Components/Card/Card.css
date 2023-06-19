@@ -1,0 +1,33 @@
+.card-background .motion-div {
+  background-color: #3a9d4b;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 5px 10px;
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-background .motion-div:hover {
+  background-color: #8dc445;
+}
+
+.card-conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icone {
+  color: white;
+  font-size: 21px;
+  margin: 5px;
+}
+
+.titulo {
+  color: white;
+  margin: 5px;
+  font-size: 16px;
+  max-width: 50%;
+}

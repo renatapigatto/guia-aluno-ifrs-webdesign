@@ -1,0 +1,7 @@
+div{
+    z-index: 99;
+}
+
+svg{
+    cursor: pointer;
+}
